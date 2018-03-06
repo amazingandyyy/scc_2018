@@ -1,0 +1,29 @@
+@import './variables';
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700');
+@import url('https://use.fontawesome.com/releases/v5.0.6/css/all.css');
+
+* { 
+    font-family: 'Open Sans', sans-serif;
+    text-rendering: optimizeLegibility;
+    @media (max-width: 543px) {}
+}
+html.touch * {
+    text-rendering: optimizeSpeed; 
+}
+body {
+    background: #f8f9fa;
+    position: relative;
+    .statusbar-overlay {
+        background: #333;
+    }
+    .rc-anchor-normal{
+        margin: auto;
+    }
+}
+
+
+@media (max-width: 543px) {}
+
+@media (min-width: 767px) {}

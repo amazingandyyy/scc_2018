@@ -1,0 +1,27 @@
+language: node_js
+node_js:
+  - "8"
+cache:
+  directories:
+    - "node_modules"
+    - "server/node_modules"
+    - "client/node_modules"
+install:
+  - npm install
+  - npm install --prefix client
+  - npm install --prefix server
+script:
+  - npm run test
+  - npm run build
+deploy:
+  provider: pages
+  local-dir: docs
+  repo: berkeley-seniorclasscouncil/berkeley-seniorclasscouncil.github.io
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
+  target-branch: master
+  name: Berkeley Seniorclasscouncil Travis Helper
+  email: berkeleyscc@gmail.com
