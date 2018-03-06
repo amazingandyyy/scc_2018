@@ -1,0 +1,210 @@
+From MAILER-DAEMON  Fri Aug  2 08:39:58 2013
+Return-Path: <>
+X-Original-To: scc@ocf.berkeley.edu
+Delivered-To: scc@ocf.berkeley.edu
+Received: by sandstorm.ocf.berkeley.edu (Postfix)
+	id AD7104172E; Fri,  2 Aug 2013 08:39:58 -0700 (PDT)
+Date: Fri,  2 Aug 2013 08:39:58 -0700 (PDT)
+From: MAILER-DAEMON@ocf.berkeley.edu (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: scc@ocf.berkeley.edu
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="0718340DDB.1375457998/sandstorm.ocf.berkeley.edu"
+Content-Transfer-Encoding: 8bit
+Message-Id: <20130802153958.AD7104172E@sandstorm.ocf.berkeley.edu>
+
+This is a MIME-encapsulated message.
+
+--0718340DDB.1375457998/sandstorm.ocf.berkeley.edu
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host sandstorm.ocf.berkeley.edu.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<elisasunga@gmail.com>: host gmail-smtp-in.l.google.com[74.125.129.26] said:
+    550-5.7.1 [169.229.172.68      12] Our system has detected that this
+    message is 550-5.7.1 likely unsolicited mail. To reduce the amount of spam
+    sent to Gmail, 550-5.7.1 this message has been blocked. Please visit
+    550-5.7.1 http://support.google.com/mail/bin/answer.py?hl=en&answer=188131
+    for 550 5.7.1 more information. xq4si7478062pab.260 - gsmtp (in reply to
+    end of DATA command)
+
+--0718340DDB.1375457998/sandstorm.ocf.berkeley.edu
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; sandstorm.ocf.berkeley.edu
+X-Postfix-Queue-ID: 0718340DDB
+X-Postfix-Sender: rfc822; scc@ocf.berkeley.edu
+Arrival-Date: Fri,  2 Aug 2013 08:39:55 -0700 (PDT)
+
+Final-Recipient: rfc822; elisasunga@gmail.com
+Original-Recipient: rfc822;elisasunga@gmail.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; gmail-smtp-in.l.google.com
+Diagnostic-Code: smtp; 550-5.7.1 [169.229.172.68      12] Our system has
+    detected that this message is 550-5.7.1 likely unsolicited mail. To reduce
+    the amount of spam sent to Gmail, 550-5.7.1 this message has been blocked.
+    Please visit 550-5.7.1
+    http://support.google.com/mail/bin/answer.py?hl=en&answer=188131 for 550
+    5.7.1 more information. xq4si7478062pab.260 - gsmtp
+
+--0718340DDB.1375457998/sandstorm.ocf.berkeley.edu
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <scc@ocf.berkeley.edu>
+Received: from death.ocf.berkeley.edu (death.OCF.Berkeley.EDU [169.229.172.67])
+	by sandstorm.ocf.berkeley.edu (Postfix) with ESMTP id 0718340DDB
+	for <elisasunga@gmail.com>; Fri,  2 Aug 2013 08:39:55 -0700 (PDT)
+Received: by death.ocf.berkeley.edu (Postfix, from userid 20394)
+	id 4F4CD4007B; Fri,  2 Aug 2013 08:39:55 -0700 (PDT)
+To: elisasunga@gmail.com
+Subject: [Senior Class Council] Please moderate: "Senior Week"
+X-PHP-Originating-Script: 20394:class-phpmailer.php
+Date: Fri, 2 Aug 2013 15:39:55 +0000
+From: WordPress <wordpress@seniorclasscouncil.berkeley.edu>
+Message-ID: <03505a8f9d91dd82bc2fe11dff873ed5@seniorclasscouncil.berkeley.edu>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.1 (http://code.google.com/a/apache-extras.org/p/phpmailer/)
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+X-Spam-Status: No, score=-0.6 required=2.5 tests=ALL_TRUSTED=-1,AWL=0.139,
+	RP_MATCHES_RCVD=-1.451,URIBL_DBL_SPAM=1.7 autolearn=disabled version=3.3.2
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	sandstorm.ocf.berkeley.edu
+X-Virus-Scanned: clamav-milter 0.97.8 at sandstorm
+X-Virus-Status: Clean
+
+A new comment on the post "Senior Week" is waiting for your approval
+http://seniorclasscouncil.berkeley.edu/?page_id=53
+
+Author : Kathy (IP: 151.237.180.203 , up-lpstat-Batchfiles.newbeech.net)
+E-mail : otfkdhus@gmail.com
+URL    : http://nsru.net/018a
+Whois  : http://whois.arin.net/rest/ip/151.237.180.203
+Comment: 
+I came to your page and noticed you could have a lot more visitors. I have found that the key to running a popular website is making sure the visitors you are getting are interested in your niche. There is a company that you can get traffic from and they let you try the service for free. I managed to get over 300 targetted visitors to day to my website. Check it out here: http://nsru.net/018a
+
+Approve it: http://seniorclasscouncil.berkeley.edu/wp-admin/comment.php?action=approve&c=226
+Trash it: http://seniorclasscouncil.berkeley.edu/wp-admin/comment.php?action=trash&c=226
+Spam it: http://seniorclasscouncil.berkeley.edu/wp-admin/comment.php?action=spam&c=226
+Currently 225 comments are waiting for approval. Please visit the moderation panel:
+http://seniorclasscouncil.berkeley.edu/wp-admin/edit-comments.php?comment_status=moderated
+
+
+--0718340DDB.1375457998/sandstorm.ocf.berkeley.edu--
+
+From announce-bounces@ocf.berkeley.edu  Sun Oct  6 23:56:06 2013
+Return-Path: <announce-bounces@ocf.berkeley.edu>
+X-Original-To: scc@ocf.berkeley.edu
+Delivered-To: scc@ocf.berkeley.edu
+Received: from sandstorm.ocf.berkeley.edu (localhost [127.0.0.1])
+	by sandstorm.ocf.berkeley.edu (Postfix) with ESMTP id C650941950;
+	Sun,  6 Oct 2013 23:53:56 -0700 (PDT)
+X-Original-To: announce@ocf.berkeley.edu
+Delivered-To: announce@ocf.berkeley.edu
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20130820;
+	h=mime-version:from:date:message-id:subject:to:content-type;
+	bh=WMUHKzzCZ1L5EVIaFBp6OHGOa1lSo1IycCobYnSpQQ4=;
+	b=LKYegTBOw3tabDPRDnuARoeJTaf+I87m/fJctUtkhRfl83mGku6omw5Dnb4Uj34KVe
+	105H3Zm5NJgSYlqSNjt+7Pg3WYRz5Ha/oWxz9/VFLw2xA4BSMzP87i8+BqfqwaD7Fnph
+	2zZAb9a8oMW75av2hFAdPSKXfsDnjuZZ5wLlCkQlI9w8a481fWcKamLrRAfrjH6zVVcF
+	4TYG1RmPKaGj7XCnc/q6+8dHeV6jkcU4l4WnbOhiQDqR6uZFOmHbtJ+0gNW0y2/xoLCp
+	CXz8ESPI3oJFAEbZ65TwyrVnVLQJ4W0lD3DfkMBd6P03cwNCK5EWG58iZteEjJhtaCsR
+	Dp2A==
+X-Received: by 10.14.178.67 with SMTP id e43mr581265eem.59.1381127823654; Sun,
+	06 Oct 2013 23:37:03 -0700 (PDT)
+MIME-Version: 1.0
+Date: Sun, 6 Oct 2013 23:36:22 -0700
+To: announce@ocf.berkeley.edu
+X-Spam-Status: No, score=-1.0 required=2.5 tests=ALL_TRUSTED=-1
+	autolearn=disabled version=3.3.2
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on
+	sandstorm.ocf.berkeley.edu
+X-Mailman-Approved-At: Sun, 06 Oct 2013 23:37:42 -0700
+Message-ID: <mailman.3.1381127862.1894.announce@ocf.berkeley.edu>
+From: OCF announcements <announce@ocf.berkeley.edu>
+Subject: [OCF-announce] Printing and email service changes
+X-BeenThere: announce@ocf.berkeley.edu
+X-Mailman-Version: 2.1.13
+Precedence: list
+Reply-To: help@ocf.berkeley.edu
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Sender: announce-bounces@ocf.berkeley.edu
+Errors-To: announce-bounces@ocf.berkeley.edu
+X-Virus-Scanned: clamav-milter 0.97.8 at sandstorm
+X-Virus-Status: Clean
+
+Greetings OCF members,
+
+In an effort to increase the quality of our offered services, the OCF
+Board of Directors is making changes to our printing and email
+services.
+
+We recommend checking our blog and subscribing to the feed for further updates:
+http://status.ocf.berkeley.edu/
+
+## Printing
+in 6A Hearst Gym
+http://status.ocf.berkeley.edu/2013/10/printing-service-changes.html
+
+As an organization managed and operated entirely by student
+volunteers, we don't have the financial resources, equipment, or
+facility space to sustain our current and projected levels of printing
+demand.
+
+In an effort to reduce costs and increase reliability, printing is now
+limited to 10 pages/day on weekdays. OCF may make additional changes
+to printing policy this semester and future semesters to manage
+increasing printing demand.
+
+## Email
+@ocf.berkeley.edu
+http://status.ocf.berkeley.edu/2013/10/email-service-changes.html
+
+Email services are being phased out over the next few months.
+
+### Phase 1: Forward-only
+
+After October 20, OCF email service will become forward-only. Email
+that is stored on OCF servers will be deleted.
+
+### Phase 2
+
+At a future date, incoming and outgoing email will be rejected. Groups
+with virtual hosts (e.g., @group.berkeley.edu) are **excluded** from
+this phase.
+
+We welcome feedback in person during our weekly meetings on Thursdays
+at 8pm in the California Conference Room (across the lab). Please do
+not reply to this email.
+
+Thanks for reading,
+Your friendly staff volunteers at the OCF
+You have received this announcement to update you about important
+changes to the OCF. The Open Computing Facility is an all-volunteer
+student organization providing free shell accounts, disk space, web
+hosting, and printing from a lab, lounge, and server room in
+Hearst Gym, UC Berkeley.
+
+To disable your OCF membership, please contact OCF staff:
+http://wiki.ocf.berkeley.edu/contact/
+

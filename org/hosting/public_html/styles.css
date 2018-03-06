@@ -1,0 +1,21 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  margin-top: 100px;
+}
+img{
+  margin-bottom: 20px;
+  box-shadow: 0 0px 30px -2px rgba(0,0,0,0.6);
+  border-radius: 10px;
+}
+h1{
+  font-weight: 900;
+  color: rgba(0,0,0,0.4)
+}
+
+h3{
+  color: #0F345F;
+}
+a.links{
+  color: rgba(#0F345F, 0.6) !important;
+}
