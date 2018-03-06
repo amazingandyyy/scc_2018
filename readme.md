@@ -1,1 +1,1 @@
-## Berkeley Senior Class Council
+## Berkeley Senior Class Council [![Build Status](https://travis-ci.com/amazingandyyy/scc_2018.svg?token=C7NJ8bT8vb8dmq7fMDsa&branch=master)](https://travis-ci.com/amazingandyyy/scc_2018)
