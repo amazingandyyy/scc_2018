@@ -16,7 +16,7 @@ script:
 deploy:
   provider: pages
   local-dir: docs
-  repo: berkeley-seniorclasscouncil/berkeley-seniorclasscouncil.github.io
+  repo: berkeleyscc/berkeleyscc.github.io
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true
