@@ -3,9 +3,9 @@ import Welcome from './welcome';
 
 const Landing= ()=> {
   return (
-    <div className='landing-component'>
+    <span className='landing-component'>
       <Welcome />
-    </div>)
+    </span>)
 }
 
 export default Landing;
