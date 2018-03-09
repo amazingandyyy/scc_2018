@@ -31,14 +31,14 @@ export const store = createStore(
 );
 serverConnect()(store.dispatch);
 
-ReactDOM.render(
-  <Provider store={store}>
-    <HashRouter hashType='noslash'>
-      <Switch>
-        <Layout>
-          <Route exact path='/' component= {Landing} />
-        </Layout>
-      </Switch>
-    </HashRouter>
-  </Provider>
-  , document.getElementById('root'));
+// ReactDOM.render(
+//   <Provider store={store}>
+//     <HashRouter hashType='noslash'>
+//       <Switch>
+//         <Layout>
+//           <Route exact path='/' component= {Landing} />
+//         </Layout>
+//       </Switch>
+//     </HashRouter>
+//   </Provider>
+//   , document.getElementById('root'));
