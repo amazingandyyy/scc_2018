@@ -8,8 +8,8 @@
     "dev": "webpack-dev-server --open --config webpack.dev.js",
     "build": "rm -rf ../docs && webpack -p --config webpack.prod.js --optimize-minimize && npm run copy-files",
     "copy-files": "npm run copy-manifest && npm run copy-readme",
-    "copy-manifest": "cp src/manifest.json ../docs",
-    "copy-readme": "cp ./readme.md ../docs"
+    "copy-manifest": "cp src/manifest.json ./docs",
+    "copy-readme": "cp ./readme.md ./docs"
   },
   "author": "amazingandyyy",
   "license": "MIT",
