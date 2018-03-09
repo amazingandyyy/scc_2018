@@ -8,14 +8,14 @@ import reduxMiddlewares from './redux/middlewares';
 
 import Layout from './components/layout';
 import Landing from './components/landing';
-import Exchange from './components/exchange';
-import User from './components/user';
-import Signin from './components/auth/signin';
-import SignupWithEmail from './components/auth/signupWithEmail';
-import SignupVerification from './components/auth/signupVerification';
-import Signout from './components/auth/signout';
+// import Exchange from './components/exchange';
+// import User from './components/user';
+// import Signin from './components/auth/signin';
+// import SignupWithEmail from './components/auth/signupWithEmail';
+// import SignupVerification from './components/auth/signupVerification';
+// import Signout from './components/auth/signout';
 
-import RequireAuth from './components/auth/requireAuth';
+// import RequireAuth from './components/auth/requireAuth';
 import reducers from './reducers';
 import {serverConnect} from './actions';
 
@@ -37,13 +37,6 @@ ReactDOM.render(
       <Switch>
         <Layout>
           <Route exact path='/' component= {Landing} />
-          <Route path='/signup' component= {SignupWithEmail} />
-          <Route path='/user' component= {RequireAuth(User)} />
-
-          <Route path='/signupVerification' component= {SignupVerification} />
-          <Route path='/signin' component= {Signin} />
-          <Route path='/signout' component= {Signout} />
-          <Route path='/exchange' component= {Exchange} />
         </Layout>
       </Switch>
     </HashRouter>
