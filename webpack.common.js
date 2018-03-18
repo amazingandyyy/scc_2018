@@ -16,13 +16,12 @@ module.exports = {
     },
     output: {
         path: path.resolve(__dirname, './docs'),
-        filename: "js/[name].[chunkhash].js",
-        publicPath: './'
+        filename: "js/[name].[chunkhash].js"
     },
     resolve: {
         "alias": {
-        "react": "preact-compat",
-        "react-dom": "preact-compat"
+            "react": "preact-compat",
+            "react-dom": "preact-compat"
         }
     },
     module: {
