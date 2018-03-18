@@ -57,7 +57,7 @@ class Navbar extends Component {
             <nav className="navbar navbar-expand sticky-top navbar-light">
                 <LoadingBar className='scc-2018-loading-bar' />
                 <NavLink className="navbar-brand" to="/">
-                    HelloDex
+                    SCC
                 </NavLink>
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav mr-auto">

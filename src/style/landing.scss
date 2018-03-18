@@ -8,6 +8,94 @@
             margin: 20px auto;
         }
     }
+    .section-block{
+        section.spotlight{
+            transition: 0.5s all ease;
+            &:hover{
+                h4{
+                    box-shadow: inset 0px -5px 0px 0px $cal-yellow;
+                }
+                .image{
+                    img{
+                        transition: 0.5s all ease;
+                        height: 110%;
+                        top: -5%;
+                    }
+                }
+            }
+            .image{
+                transition: .5s all ease;
+                overflow: hidden;       
+            }
+            h4{
+                text-transform: uppercase;
+                color: rgba(black, 0.6);
+                letter-spacing: 1px;
+                font-weight: 900;
+                display: inline;
+                line-height: 2rem;
+                transition: .2s all ease;
+            }
+            h2{
+                line-height: 2rem;
+                font-weight: 900;
+            }
+        }
+        .actions{
+            a.actionsButton{
+                &:hover{
+                    background: $cal-yellow !important;
+                    color: white !important;
+                    box-shadow: 0px 0px !important;
+                }
+            }
+        }
+    }
+    .senior-week-events, .inner{
+        article{
+            overflow: hidden;
+            height: 100%;
+            .caption{
+                h3{
+                    letter-spacing: 1px;
+                    font-weight: 900;
+                    font-size: 1.5rem;
+                }
+            }
+
+            img{
+                transition: .2s all ease-in-out;
+                height: 250px;
+            }
+
+            &:hover{
+                img{
+                    transition: .2s all ease-in-out;
+                    opacity: 0.8;
+                }   
+            }
+        }
+        ul.actions{
+            .button.small:hover{
+                background: white !important;
+                color: black !important;
+                box-shadow: 0px 0px !important;
+            }
+        }
+        h4{
+            text-transform: uppercase;
+            color: rgba(black, 0.6);
+            letter-spacing: 1px;
+            font-weight: 900;
+            display: inline;
+            line-height: 2rem;
+            transition: .2s all ease;
+        }
+        h2{
+            line-height: 2rem;
+            font-weight: 900;
+        }
+    }
     @media (min-width: 767px) {
 
     }
