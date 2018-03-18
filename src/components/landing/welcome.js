@@ -49,7 +49,7 @@ class Welcome extends React.Component {
 					</ul>
 				</div>
 				<div className='image'>
-					<img src={`../../assets/bk/${e.image}`} alt='' />
+					<img src={`../../assets/images/bk/${e.image}`} alt='' />
 				</div>
 			</section>
 				</div>)
@@ -57,7 +57,7 @@ class Welcome extends React.Component {
 	}
 	renderSeniorweekEvents(){
 		return seniorweekEvents.map((d, i)=>(<article key={d.date}>
-			<img src={`../../assets/seniorweek/date-${i}.jpg`} alt='' />
+			<img src={`../../assets/images/seniorweek/date-${i}.jpg`} alt='' />
 			<div className='caption'>
 				<h3>{d.title}</h3>
 				<p>{d.date}</p>
