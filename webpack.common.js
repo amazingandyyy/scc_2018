@@ -1,4 +1,4 @@
-const webpack = require('webpack');
+// const webpack = require('webpack');
 const path = require('path');
 // var BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 const HtmlWebpackPlugin = require('html-webpack-plugin');
@@ -67,12 +67,12 @@ module.exports = {
         //     analyzerMode: 'static'
         // }),
         new HtmlWebpackPlugin({template: path.resolve(__dirname, 'src/index.html')}),
-        new webpack.optimize.CommonsChunkPlugin({
-            name: 'manifest',
-            filename: "manifest.js",
-            chunks: ['vendor'],
-            minChunks: Infinity
-        }),
+        // new webpack.optimize.CommonsChunkPlugin({
+        //     name: 'manifest',
+        //     filename: "manifest.js",
+        //     chunks: ['vendor'],
+        //     minChunks: Infinity
+        // }),
         new ExtractTextPlugin({
             filename: 'styles/style.[hash].css'
         }),
